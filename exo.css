@@ -1,0 +1,56 @@
+html{
+	font-size: 16px;
+	font-family: andale mono, serif;
+	color: purple;
+}
+letter-spacing : 1px;
+a {
+	color: red;
+}
+
+a:link {
+	color: green;
+}
+
+a:visited {
+	color: blue;
+}
+
+a:focus {
+	color: yellow;
+}
+
+a:hover {
+	color: purple;
+}
+
+a:active {
+	color: pink;
+}
+body
+{
+
+	max-width: 90%;
+	margin: auto;
+	background: -webkit-linear-gradient(25deg, rgb(14, 252, 0), rgb(20, 55, 90));
+	background-image: url("file:///Users/konihno/Pictures/Photos%20Library.photoslibrary/private/com.apple.Photos/ExternalEditSessions/29E2F390-80D8-4555-9687-9F79A41FCD96/IMG_1070.jpg");
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	background-size: cover;
+}
+blockquote
+{	
+	width: 50%;
+	margin: auto;
+	font-size: 160%;
+	background-color: grey;
+	border-left: 3px solid FireBrick;
+	padding-left: 30px;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+head
+{
+	width: 160%;
+
+}
